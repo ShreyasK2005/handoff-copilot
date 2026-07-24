@@ -1,6 +1,6 @@
-# Handoff Copilot (Demo)
+# Handoff Copilot 
 
-This is a lightweight full-stack demo for nurse shift handoffs:
+This is a full-stack application for nurse shift handoffs:
 - Frontend: React + Vite
 - Backend: Express
 - AI: Optional real OpenAI model (falls back to mock output if no API key)
