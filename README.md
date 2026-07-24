@@ -27,7 +27,7 @@ Client runs on http://localhost:5173
 
 ## Notes
 - The backend calls the OpenAI Responses API with Structured Outputs (json_schema) to guarantee valid JSON.
-- If the LLM call fails for any reason, the server returns mock output so your demo still works.
+- If the LLM call fails for any reason, the server returns mock output so it still works.
 
 
 System Design:
